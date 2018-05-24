@@ -1,7 +1,7 @@
 # poj <br>
-# <font size=24> Hi,boy! </font>
+<font size=24> Hi,boy! </font>
 
-# <font size=1> Hi,boy! </font> 
+<font size=1> Hi,boy! </font> 
 
 ## 1. 并查集 <br>
 problem ID   |	 name   	     |		problem		  |		code 
